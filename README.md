@@ -1,4 +1,4 @@
-# sales-data-analysis-system
+#sales-data-analysis-system
 #create_database
 CREATE DATABASE IF NOT EXISTS SalesAnalysis;
 
